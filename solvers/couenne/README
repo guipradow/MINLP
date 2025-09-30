@@ -1,0 +1,10 @@
+See the project directories in share/doc/coin for the README files.
+
+See https://projects.coin-or.org/ for a list of links to the source
+code for the binaries in this distribution. 
+
+C/C++ sources have been build with the MS C/C++ compiler 15.00.
+Fortran77 sources have been build with f2c and the MS C Compiler.
+Fortran90 sources (MUMPS) have been build with the Intel Fortran compiler 10.1
+To link against the latter, Intel Fortran libraries might be necessary.
+They can be found at http://www.gams.com/~svigerske/intel/x86_32/10.1
